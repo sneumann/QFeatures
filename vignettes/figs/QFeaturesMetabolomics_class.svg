@@ -1487,8 +1487,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.82354135"
-     inkscape:cx="502.09986"
-     inkscape:cy="250.74637"
+     inkscape:cx="502.707"
+     inkscape:cy="251.96063"
      inkscape:window-width="1854"
      inkscape:window-height="1019"
      inkscape:window-x="0"
@@ -2057,4 +2057,26 @@
      d="m 581.48364,298.55468 v 201.18879 l -59.4741,0.35236 v 10 l -19,-17 19,-18 v 10 l 44.4741,-0.35237 V 298.55468 h 15"
      id="path9115-8"
      sodipodi:nodetypes="cccccccccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#d9d2e9;fill-opacity:1;stroke:#434343;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     x="615.7226"
+     y="140.3324"
+     id="text22836-4-3"><tspan
+       sodipodi:role="line"
+       id="tspan22834-3-6"
+       x="615.7226"
+       y="140.3324"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none">SML</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#d9d2e9;fill-opacity:1;stroke:#434343;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     x="217.29564"
+     y="220.49443"
+     id="text22836-4-7"><tspan
+       sodipodi:role="line"
+       id="tspan22834-3-5"
+       x="217.29564"
+       y="220.49443"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none">SMF</tspan></text>
 </svg>
