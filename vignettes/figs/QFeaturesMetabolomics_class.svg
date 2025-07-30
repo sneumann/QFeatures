@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   viewBox="0 0 1092.9063 589.35421"
+   viewBox="0 0 760.00004 589.35421"
    fill="none"
    stroke="none"
    stroke-linecap="square"
    stroke-miterlimit="10"
    id="svg11177"
-   sodipodi:docname="QFeatures.svg"
+   sodipodi:docname="QFeaturesMetabolomics_class.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   width="1092.9062"
+   width="760"
    height="589.35419"
    inkscape:export-filename="QFeatures_class.png"
    inkscape:export-xdpi="96"
@@ -20,46 +20,6 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs11181">
-    <marker
-       style="overflow:visible"
-       id="marker13193"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Dot"
-       markerWidth="2.6670001"
-       markerHeight="2.6670001"
-       viewBox="0 0 5.6666667 5.6666667"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="path13191"
-         sodipodi:nodetypes="sssss" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Dot"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Dot"
-       markerWidth="2.6670001"
-       markerHeight="2.6670001"
-       viewBox="0 0 5.6666667 5.6666667"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="Dot1"
-         sodipodi:nodetypes="sssss" />
-    </marker>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath11408">
@@ -1140,86 +1100,6 @@
     </clipPath>
     <marker
        style="overflow:visible"
-       id="Dot-7"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Dot"
-       markerWidth="2.6670001"
-       markerHeight="2.6670001"
-       viewBox="0 0 5.6666667 5.6666667"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="Dot1-0"
-         sodipodi:nodetypes="sssss" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker13193-4"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Dot"
-       markerWidth="2.6670001"
-       markerHeight="2.6670001"
-       viewBox="0 0 5.6666667 5.6666667"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="path13191-8"
-         sodipodi:nodetypes="sssss" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Dot-7-2"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Dot"
-       markerWidth="2.6670001"
-       markerHeight="2.6670001"
-       viewBox="0 0 5.6666667 5.6666667"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="Dot1-0-9"
-         sodipodi:nodetypes="sssss" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker13193-4-6"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Dot"
-       markerWidth="2.6670001"
-       markerHeight="2.6670001"
-       viewBox="0 0 5.6666667 5.6666667"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="path13191-8-1"
-         sodipodi:nodetypes="sssss" />
-    </marker>
-    <marker
-       style="overflow:visible"
        id="Dot-7-2-4"
        refX="0"
        refY="0"
@@ -1607,32 +1487,32 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.82354135"
-     inkscape:cx="516.06395"
-     inkscape:cy="291.42435"
-     inkscape:window-width="1680"
-     inkscape:window-height="1013"
-     inkscape:window-x="110"
+     inkscape:cx="502.09986"
+     inkscape:cy="250.74637"
+     inkscape:window-width="1854"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg11177">
     <inkscape:grid
        type="xygrid"
        id="grid9059"
-       originx="42.280464"
-       originy="-5.0803612" />
+       originx="42.280474"
+       originy="-5.0803622" />
   </sodipodi:namedview>
   <path
      style="font-variation-settings:normal;opacity:1;fill:#fce5cd;fill-opacity:1;stroke:#434343;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-     d="m 151.28046,464.91965 v 35 l 522.60439,0.35237 v 10 l 19,-17 -19,-18 v 10 l -116.60439,-0.35237 v -90 h -15 v 90 h -376 v -20 h -15"
+     d="m 163.02456,395.55277 -0.75129,104.36688 131.61158,0.35237 v 10 l 19,-17 -19,-18 v 10 l -116.60439,-0.35237 v -90 h -15"
      id="path9115"
-     sodipodi:nodetypes="cccccccccccccc" />
+     sodipodi:nodetypes="cccccccccc" />
   <rect
      style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.47273;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:5.89092, 4.41819;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
      id="rect1131-2-9-6"
      width="28.453651"
      height="189.82646"
      x="28.779573"
-     y="-1077.7699"
+     y="-697.7699"
      ry="4.8037782"
      rx="4.8037782"
      transform="rotate(90)" />
@@ -1642,7 +1522,7 @@
      width="28.453651"
      height="189.82646"
      x="30.779573"
-     y="-677.32623"
+     y="-297.32623"
      ry="4.8037782"
      rx="4.8037782"
      transform="rotate(90)" />
@@ -1651,7 +1531,7 @@
      id="rect1131-2-0"
      width="28.453651"
      height="189.82646"
-     x="703.68402"
+     x="323.68402"
      y="367.05133"
      ry="4.8037782"
      rx="4.8037782" />
@@ -1660,7 +1540,7 @@
      id="rect1131-2-7"
      width="28.453651"
      height="189.82646"
-     x="801.88611"
+     x="421.88611"
      y="72.212219"
      ry="4.8037782"
      rx="4.8037782" />
@@ -1669,391 +1549,151 @@
      id="rect1131-2"
      width="28.453651"
      height="189.82646"
-     x="398.33987"
+     x="18.339867"
      y="125.01856"
      ry="4.8037782"
      rx="4.8037782" />
   <path
-     style="fill:none;fill-opacity:1;stroke:#616161;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#marker13193);stop-color:#000000"
-     d="m 315.39803,169.61189 h 72.50612"
-     id="path12674"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="fill:none;fill-opacity:1;stroke:#616161;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot-7);marker-end:url(#marker13193-4);stop-color:#000000"
-     d="m 315.48733,200.55704 72.41682,-30.94515"
-     id="path12674-0"
-     sodipodi:nodetypes="cc" />
-  <path
-     style="fill:none;fill-opacity:1;stroke:#616161;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot-7-2);marker-end:url(#marker13193-4-6);stop-color:#000000"
-     d="m 313.84391,279.73907 72.89861,-25.15175"
-     id="path12674-0-0"
-     sodipodi:nodetypes="cc" />
-  <path
      style="fill:none;fill-opacity:1;stroke:#616161;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot-7-2-4);marker-end:url(#marker13193-4-6-2);stop-color:#000000"
-     d="m 712.70998,250.03034 72.33307,-83.91833"
+     d="m 332.70998,250.03034 72.33307,-83.91833"
      id="path12674-0-0-0"
      sodipodi:nodetypes="cc" />
   <path
      style="fill:none;fill-opacity:1;stroke:#616161;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot-7-2-4-5);marker-end:url(#marker13193-4-6-2-2);stop-color:#000000"
-     d="m 713.52997,166.01461 71.51308,0.0974"
+     d="m 333.52997,166.01461 71.51308,0.0974"
      id="path12674-0-0-0-0"
      sodipodi:nodetypes="cc" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;fill:#d9d2e9;fill-opacity:1;stroke:#434343;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-     x="153.69337"
-     y="20.568001"
-     id="text22836"><tspan
-       sodipodi:role="line"
-       id="tspan22834"
-       x="153.69337"
-       y="20.568001"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none">PSMs</tspan></text>
-  <text
-     xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#d9d2e9;fill-opacity:1;stroke:#434343;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-     x="533.08105"
+     x="153.08105"
      y="18.24"
      id="text22836-4"><tspan
        sodipodi:role="line"
        id="tspan22834-3"
-       x="533.08105"
+       x="153.08105"
        y="18.24"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none">peptides</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none">features</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#d9d2e9;fill-opacity:1;stroke:#434343;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-     x="935.66071"
+     x="555.66071"
      y="17.964001"
      id="text22836-4-5"><tspan
        sodipodi:role="line"
        id="tspan22834-3-1"
-       x="935.66071"
+       x="555.66071"
        y="17.964001"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none">proteins</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none">metabolites</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variation-settings:normal;text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-     x="743.68097"
+     x="363.68097"
      y="584.87415"
      id="text23206"><tspan
        sodipodi:role="line"
        id="tspan23204"
-       x="743.68097"
+       x="363.68097"
        y="584.87415"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:monospace;-inkscape-font-specification:monospace">colData(qf)</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-     x="133.05325"
-     y="422.60999"
-     id="text23206-7"><tspan
-       sodipodi:role="line"
-       id="tspan23204-4"
-       x="133.05325"
-       y="422.60999">qf[[1]]</tspan><tspan
-       sodipodi:role="line"
-       x="133.05325"
-       y="443.14334"
-       id="tspan23425">qf[[&quot;psms&quot;]]</tspan></text>
-  <text
-     xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variation-settings:normal;text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-     x="516.08087"
+     x="136.08087"
      y="357.21512"
      id="text23206-7-3"><tspan
        sodipodi:role="line"
        id="tspan23204-4-1"
-       x="516.08087"
+       x="136.08087"
        y="357.21512"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">qf[[2]]</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">qf[[1]]</tspan><tspan
        sodipodi:role="line"
-       x="516.08087"
-       y="377.74847"
+       x="136.08087"
+       y="378.21719"
        id="tspan23425-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">qf[[&quot;peptides&quot;]]</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">qf[[&quot;features&quot;]]</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variation-settings:normal;text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-     x="918.18585"
+     x="538.18585"
      y="251.23985"
      id="text23206-7-3-9"><tspan
        sodipodi:role="line"
        id="tspan23204-4-1-4"
-       x="918.18585"
+       x="538.18585"
        y="251.23985"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">qf[[3]]</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">qf[[2]]</tspan><tspan
        sodipodi:role="line"
-       x="918.18585"
-       y="271.77319"
+       x="538.18585"
+       y="272.24194"
        id="tspan23427-4-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">qf[[&quot;proteins&quot;]]</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">qf[[&quot;metabolites&quot;]]</tspan><tspan
        sodipodi:role="line"
-       x="918.18585"
-       y="292.30658"
+       x="538.18585"
+       y="293.24402"
        id="tspan23425-6-2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace" /></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;fill:#584389;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-     x="-276.11099"
-     y="16.354584"
-     id="text29046"
-     transform="rotate(-90)"><tspan
-       sodipodi:role="line"
-       id="tspan29044"
-       x="-276.11099"
-       y="16.354584"
-       style="font-weight:normal;fill:#000000;fill-opacity:1">psms</tspan></text>
-  <text
-     xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#584389;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
      x="-258.30115"
-     y="418.20889"
+     y="38.208893"
      id="text29046-3"
      transform="rotate(-90)"><tspan
        sodipodi:role="line"
        id="tspan29044-3"
        x="-258.30115"
-       y="418.20889"
-       style="font-weight:normal;fill:#000000;fill-opacity:1">peptides</tspan></text>
+       y="38.208893"
+       style="font-weight:normal;fill:#000000;fill-opacity:1">features</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#584389;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
      x="-203.8335"
-     y="821.21454"
+     y="441.21454"
      id="text29046-3-6"
      transform="rotate(-90)"><tspan
        sodipodi:role="line"
        id="tspan29044-3-8"
        x="-203.8335"
-       y="821.21454"
-       style="font-weight:normal;fill:#000000;fill-opacity:1">proteins</tspan></text>
-  <g
-     id="g4082"
-     transform="translate(0.67246411,-5.080351)">
-    <rect
-       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.47273;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:5.89092, 4.41819;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       id="rect1131-2-9"
-       width="28.453651"
-       height="189.82646"
-       x="34.082802"
-       y="-279.03812"
-       ry="4.8037782"
-       rx="4.8037782"
-       transform="rotate(90)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#584389;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-       x="147.75284"
-       y="53.159103"
-       id="text29046-3-6-7"><tspan
-         sodipodi:role="line"
-         id="tspan29044-3-8-9"
-         x="147.75284"
-         y="53.159103"
-         style="font-weight:normal;fill:#000000;fill-opacity:1">samples</tspan></text>
-  </g>
+       y="441.21454"
+       style="font-weight:normal;fill:#000000;fill-opacity:1">metabolites</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#584389;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-     x="546.04095"
+     x="166.04095"
      y="50.732059"
      id="text29046-3-6-7-7"><tspan
        sodipodi:role="line"
        id="tspan29044-3-8-9-3"
-       x="546.04095"
+       x="166.04095"
        y="50.732059"
        style="font-weight:normal;fill:#000000;fill-opacity:1">samples</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#584389;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-     x="946.48462"
+     x="566.48462"
      y="49.008579"
      id="text29046-3-6-7-6"><tspan
        sodipodi:role="line"
        id="tspan29044-3-8-9-5"
-       x="946.48462"
+       x="566.48462"
        y="49.008579"
        style="font-weight:normal;fill:#000000;fill-opacity:1">samples</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#584389;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
      x="-495.12808"
-     y="722.94952"
+     y="342.94952"
      id="text29046-3-6-7-6-3"
      transform="rotate(-90)"><tspan
        sodipodi:role="line"
        id="tspan29044-3-8-9-5-5"
        x="-495.12808"
-       y="722.94952"
+       y="342.94952"
        style="font-weight:normal;fill:#000000;fill-opacity:1">samples</tspan></text>
-  <rect
-     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.47273;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:5.89092, 4.41819;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-     id="rect1131"
-     width="28.453651"
-     height="189.82646"
-     x="0.74667388"
-     y="157.41641"
-     ry="4.8037782"
-     rx="4.8037782" />
-  <g
-     id="g15273"
-     transform="translate(1.5554108e-8,-4.6438501)">
-    <path
-       fill="#cfe2f3"
-       d="m 492.94806,3.242595 h 104.8819 l -0.49793,156.095995 h -104.8819 z"
-       fill-rule="evenodd"
-       id="path11079"
-       clip-path="url(#clipPath11690)"
-       transform="matrix(0,-0.24701517,1.2609151,0,82.29681,217.6143)"
-       style="stroke:none;stroke-width:1.27686;stroke-opacity:1"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       fill="#fce5cd"
-       d="M 595.8058,32.01837 V 62.223093 H 493.97902 V 32.01837 Z"
-       fill-rule="evenodd"
-       id="path11083"
-       clip-path="url(#clipPath11678)"
-       transform="matrix(0,-0.24701517,1.4441277,0,88.94375,217.6143)"
-       style="stroke-width:1.19312" />
-    <rect
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       id="rect4680"
-       width="43.619476"
-       height="25.15276"
-       x="135.18234"
-       y="70.441246" />
-    <rect
-       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#434343;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       id="rect10861"
-       width="196.82378"
-       height="26.030411"
-       x="86.385468"
-       y="69.941246" />
-  </g>
-  <g
-     id="g15343"
-     transform="translate(0.1914139,-4.6438425)">
-    <path
-       fill="#cfe2f3"
-       d="m 195.1181,181.11023 h 196.44095 v 287.1181 H 195.1181 Z"
-       fill-rule="evenodd"
-       id="path11067"
-       clip-path="url(#clipPath11726)"
-       transform="translate(-108.73261,-67.695821)" />
-    <path
-       fill="#fce5cd"
-       d="m 243.56955,182.55643 h 42.67716 v 284.2205 h -42.67716 z"
-       fill-rule="evenodd"
-       id="path11145"
-       clip-path="url(#clipPath11492)"
-       transform="translate(-108.73261,-67.695821)" />
-    <path
-       stroke="#666666"
-       stroke-width="1"
-       stroke-linejoin="round"
-       stroke-linecap="butt"
-       stroke-dasharray="1, 3"
-       d="m 243.56955,182.55643 h 42.67716 v 284.2205 h -42.67716 z"
-       fill-rule="evenodd"
-       id="path11147"
-       clip-path="url(#clipPath11486)"
-       transform="translate(-108.73261,-67.695821)" />
-    <path
-       fill="#d9d2e9"
-       d="m 196.6798,229.11023 h 193.32283 v 54.83466 H 196.6798 Z"
-       fill-rule="evenodd"
-       id="path11071"
-       clip-path="url(#clipPath11714)"
-       transform="translate(-108.73261,-67.695821)"
-       style="stroke:none" />
-    <path
-       stroke="#666666"
-       stroke-width="1"
-       stroke-linejoin="round"
-       stroke-linecap="butt"
-       stroke-dasharray="1, 3"
-       d="m 196.6798,229.11023 h 193.32283 v 54.83466 H 196.6798 Z"
-       fill-rule="evenodd"
-       id="path11073"
-       clip-path="url(#clipPath11708)"
-       transform="translate(-108.73261,-67.695821)" />
-    <path
-       fill="#d9d2e9"
-       d="m 196.69292,340.22046 h 193.32283 v 23.71655 H 196.69292 Z"
-       fill-rule="evenodd"
-       id="path11075"
-       clip-path="url(#clipPath11702)"
-       transform="translate(-108.73261,-67.695821)" />
-    <path
-       stroke="#666666"
-       stroke-width="1"
-       stroke-linejoin="round"
-       stroke-linecap="butt"
-       stroke-dasharray="1, 3"
-       d="m 196.69292,340.22046 h 193.32283 v 23.71655 H 196.69292 Z"
-       fill-rule="evenodd"
-       id="path11077"
-       clip-path="url(#clipPath11696)"
-       transform="translate(-108.73261,-67.695821)" />
-    <rect
-       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#434343;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-       id="rect10861-6"
-       width="196.44095"
-       height="287.1181"
-       x="86.385468"
-       y="113.41442" />
-  </g>
-  <g
-     id="g15411"
-     transform="translate(1.5554108e-8,-4.6438501)">
-    <path
-       fill="#cfe2f3"
-       d="m 69.34646,181.11023 h 84.88189 v 287.1181 H 69.34646 Z"
-       fill-rule="evenodd"
-       id="path11105"
-       clip-path="url(#clipPath11612)"
-       transform="matrix(0.39573414,0,0,1.003863,9.0167903,-68.950011)" />
-    <path
-       fill="#d9d2e9"
-       d="m 70.826775,228.71391 h 81.952745 v 54.83464 H 70.826775 Z"
-       fill-rule="evenodd"
-       id="path11109"
-       clip-path="url(#clipPath11600)"
-       transform="matrix(0.39573414,0,0,1.003863,9.0167903,-68.950011)" />
-    <path
-       fill="#d9d2e9"
-       d="m 70.826775,343.91864 h 81.952745 v 23.71652 H 70.826775 Z"
-       fill-rule="evenodd"
-       id="path11113"
-       clip-path="url(#clipPath11588)"
-       transform="matrix(0.39573414,0,0,1.003863,9.0167903,-68.950011)" />
-    <rect
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       id="rect6180"
-       width="32.431499"
-       height="55.046467"
-       x="37.045441"
-       y="160.64743" />
-    <rect
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:1, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       id="rect6376"
-       width="32.431499"
-       height="23.808136"
-       x="37.045441"
-       y="276.29718" />
-    <rect
-       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#434343;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-       id="rect10861-9"
-       width="33.59066"
-       height="288.22723"
-       x="36.459625"
-       y="112.85986" />
-  </g>
   <g
      id="g15477"
-     transform="translate(1.5554108e-8,-4.6438501)">
+     transform="translate(-380,-4.6438501)">
     <path
        fill="#cfe2f3"
        d="m 491.95485,3.1696407 h 104.8819 l 0.49528,156.1689493 h -104.8819 z"
@@ -2088,7 +1728,7 @@
   </g>
   <g
      id="g15547"
-     transform="translate(0.11484529,-4.6438425)">
+     transform="translate(-379.88515,-4.6438425)">
     <path
        fill="#cfe2f3"
        d="m 195.1181,181.11023 h 196.44095 v 287.1181 H 195.1181 Z"
@@ -2150,7 +1790,7 @@
   </g>
   <g
      id="g15618"
-     transform="translate(1.5554108e-8,-4.6438501)">
+     transform="translate(-380,-4.6438501)">
     <path
        fill="#cfe2f3"
        d="m 69.34646,181.11023 h 84.88189 v 287.1181 H 69.34646 Z"
@@ -2223,7 +1863,7 @@
   </g>
   <g
      id="g15750"
-     transform="translate(50.033348,-4.6438501)">
+     transform="translate(-329.96665,-4.6438501)">
     <path
        fill="#cfe2f3"
        d="m 492.45013,0.22047244 h 104.8819 V 159.33859 h -104.8819 z"
@@ -2257,7 +1897,7 @@
   </g>
   <g
      id="g15820"
-     transform="translate(48.229675,-4.4110337)">
+     transform="translate(-331.77033,-4.4110337)">
     <path
        fill="#cfe2f3"
        d="m 195.1181,181.11023 h 196.44095 v 287.1181 H 195.1181 Z"
@@ -2306,7 +1946,7 @@
          id="tspan26592"
          x="865.25305"
          y="179.05344"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:monospace;-inkscape-font-specification:monospace">qf[&quot;proteinA&quot;,,]</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:monospace;-inkscape-font-specification:monospace">qf[&quot;metaboliteA&quot;,,]</tspan></text>
     <rect
        style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#434343;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect10861-2"
@@ -2317,7 +1957,7 @@
   </g>
   <g
      id="g15684"
-     transform="translate(50,-4.4110184)">
+     transform="translate(-330,-4.4110184)">
     <path
        fill="#cfe2f3"
        d="m 69.34646,181.11023 h 84.88189 v 287.1181 H 69.34646 Z"
@@ -2350,10 +1990,10 @@
   </g>
   <g
      id="g15888"
-     transform="translate(-276.38762,-8.2376533)">
+     transform="translate(-656.38762,-8.2376533)">
     <path
        fill="#cfe2f3"
-       d="m 505.23681,0.22048466 92.09522,-1.222e-5 V 159.33859 l -92.09522,0 z"
+       d="m 505.23681,0.22048466 92.09522,-1.222e-5 V 159.33859 h -92.09522 z"
        fill-rule="evenodd"
        id="path11079-2-1-5"
        clip-path="url(#clipPath11690-8-1-2)"
@@ -2383,7 +2023,7 @@
        sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#be670b;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#be670b;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        x="1018.5906"
        y="500.70709"
        id="text26594-0"><tspan
@@ -2391,7 +2031,7 @@
          id="tspan26592-4"
          x="1018.5906"
          y="500.70709"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;font-size:14.66666667px">qf[,&quot;sample1&quot;,]</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:monospace;-inkscape-font-specification:monospace">qf[,&quot;sample1&quot;,]</tspan></text>
     <rect
        style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#434343;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        id="rect10861-74"
@@ -2403,30 +2043,18 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variation-settings:normal;text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-     x="-390.24985"
-     y="302.29181"
-     id="text23206-7-3-4"
-     transform="rotate(-90)"><tspan
-       sodipodi:role="line"
-       x="-390.24985"
-       y="302.29181"
-       id="tspan23425-6-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">assayLink(qf,&quot;peptides&quot;)</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variation-settings:normal;text-align:start;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.681;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:0.681, 2.043;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
      x="-349.85202"
-     y="699.92017"
+     y="319.92017"
      id="text23206-7-3-4-3"
      transform="rotate(-90)"><tspan
        sodipodi:role="line"
        x="-349.85202"
-       y="699.92017"
+       y="319.92017"
        id="tspan23425-6-7-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">assayLink(qf,&quot;proteins&quot;)</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace">assayLink(qf,&quot;metabolites&quot;)</tspan></text>
   <path
      style="font-variation-settings:normal;fill:#fce5cd;fill-opacity:1;stroke:#434343;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-     d="m 961.48364,298.55468 v 201.18879 l -59.4741,0.35236 v 10 l -19,-17 19,-18 v 10 l 44.4741,-0.35237 V 298.55468 h 15"
+     d="m 581.48364,298.55468 v 201.18879 l -59.4741,0.35236 v 10 l -19,-17 19,-18 v 10 l 44.4741,-0.35237 V 298.55468 h 15"
      id="path9115-8"
      sodipodi:nodetypes="cccccccccc" />
 </svg>
